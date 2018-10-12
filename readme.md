@@ -4,10 +4,9 @@
 
 ![alt text](https://pbs.twimg.com/media/DNny-tgVoAA9xE6.jpg)
 
-#### This function answers the question using a Monte Carlo simulation:
+##### This function answers the question using a Monte Carlo simulation:
 
 ```
-def prob_count_board(n,d,m,x):
-    return count_board(n,d,m,x)/x
+prob_count_board(n,d,m,x):
 ```
-#### Print this function to get an approximation to the question. x is the number of iterations. The higher x is, the more accurate the answer will be, and the longer it will take to compute.
+##### Print this function to get an approximation to the question. x is the number of iterations. The higher x is, the more accurate the answer will be, and the longer it will take to compute.
