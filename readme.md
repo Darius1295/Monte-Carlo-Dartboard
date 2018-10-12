@@ -14,5 +14,5 @@ prob_count_board(n,d,m,x)
 ##### Print this function to approximate the probability that at least half the squares in the dartboard will be empty with a Monte Carlo simulation with x number of iterations.
 
 ```
-prob_half_squares_empty(n,d,x):
+prob_half_squares_empty(n,d,x)
 ```
